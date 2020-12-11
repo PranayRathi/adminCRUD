@@ -4,6 +4,8 @@ Admin CRUD operation:
 
 gitHub link : https://github.com/PranayRathi/adminCRUD
 
+hosted link : https://admincrud.herokuapp.com/login
+
 Command to be run:
 
 1.	cd client
