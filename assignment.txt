@@ -1,0 +1,25 @@
+
+
+Admin CRUD operation:
+
+gitHub link : https://github.com/PranayRathi/adminCRUD
+
+Command to be run:
+
+1.	cd client
+2.	npm install
+3.	npm start
+
+4. open new terminal/cmd;
+5. check mongoDB connection in db.js
+6. run -> node index.js
+
+Below 3 are the only login credentials:
+	
+{ username: "Pranay", password: "Pranay@123" },
+{ username: "Admin", password: "Admin@123" },
+{ username: "Adminstration", password: "Admn@123" }
+
+This prject is created in limited time with best of my knowledge
+Thank you.
+
