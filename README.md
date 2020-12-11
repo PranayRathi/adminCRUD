@@ -1,3 +1,3 @@
 # adminCRUD
 
-#Hosted link of project : https://admincrud.herokuapp.com/login
+#Hosted link of project : https://admincrud.herokuapp.com/
